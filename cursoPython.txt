@@ -1,0 +1,25 @@
+07/02/2023
+Regina Salvador -> Presendadora curso.
+Ricardo Jaume -> formador de PUE.
+Somos 29 alumnos
+
+IDE:
+https://code.visualstudio.com/
+
+pyCharm (jetbrains)-> IDE profesional de python.
+
+python 3.11.1 -> ultima version disponible.
+
+En VSC, vamos instalar plugging de python:
+ir a Extensiones -> buscar "python" (el de microsoft) y apretar instalar.
+Una carpeta es un proyecto.
+
+signatura -> parametros de una funcion.
+
+Notacion Python: Snake (todo minuscula y separado con guion bajo)
+
+tipado dinámico -> puedes cambiar el valor de la variable de un tipo a otro sin problemas.
+
+Zen python -> convertirse en un developer de python. simple en vez de complejidades.
+
+
