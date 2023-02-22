@@ -22,4 +22,17 @@ tipado dinámico -> puedes cambiar el valor de la variable de un tipo a otro sin
 
 Zen python -> convertirse en un developer de python. simple en vez de complejidades.
 
+Acceso hasta el 4/4 al netacad
+https://lms.netacad.com/course/view.php?id=1660400
+Ed...$Net....
+
+Los packeged
+fichero __init__.py
+como se instala un packages -> pip install gcp
+instala la libreria en tu entorno
+
+pypi.org -> librerias y packaged
+
+Web con un tutorial de python
+https://www.w3schools.com/python/default.asp
 

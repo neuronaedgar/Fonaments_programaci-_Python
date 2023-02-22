@@ -1,0 +1,1 @@
+[('38512111', 'Juan', 'Perez', 1, {'literatura', 'filosofia', 'mates'}), ('38512222', 'Alicia', 'Bartomeu', 1, {'literatura', 'filosofia', 'mates'}), ('38512333', 'Victor', 'Sanchez', 1, {'literatura', 'filosofia', 'mates'}), ('38512444', 'Marta', 'Navarro', 1, {'literatura', 'filosofia', 'mates'}), ('38512555', 'Daniela', 'Lopez', 1, {'literatura', 'filosofia', 'mates'})]
