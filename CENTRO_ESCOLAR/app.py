@@ -26,14 +26,14 @@ if __name__ == "__main__":
     print(f"Hemos creado {len(alumnos)} alumnos")
     #listar_alumnos(alumnos)
     alumnos_matriculados = matricular_alumnos(alumnos)
-    print(listar_alumnos(alumnos_matriculados))
-    """
+    #print(listar_alumnos(alumnos_matriculados))
+    
     resultado_examenes = examinar_alumnos(alumnos_matriculados)
     if resultado_examenes:
         print("El proceso de examenes ha ido correctamente")
     else:
         print("El proceso de examenes NO ha ido correctamente. Contactar con el tutor")
-    """
+    
     alumnos_calificados = examinar_alumnos_con_calificacion(alumnos_matriculados)
     print(alumnos_calificados)
 

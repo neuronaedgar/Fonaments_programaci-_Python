@@ -42,11 +42,6 @@ def listar_alumnos(l_alumnos: list) -> list:
         return info_requerida
 
 
-def __examinar_alumno(s_asig: set) -> bool:
-    import random as R
-    asignatura = R.choice(list(s_asig))
-    #print("Asignatura a examinar:", asignatura)
-    return R.choice([True, False]) #hard coded
 
 def __examinar_alumno_con_calificacion(s_asig: set) -> float:
     import random as R
@@ -60,6 +55,12 @@ def examinar_alumnos_con_calificacion(l_alumnos: list) -> list:
         l_calificaciones.append((alumno[0],'?',resultado))
     else:
         return l_calificaciones
+
+def __examinar_alumno(s_asig: set) -> bool:
+    import random as R
+    asignatura = R.choice(list(s_asig))
+    print("Asignatura a examinar:", asignatura)
+    return R.choice([True, False]) #hard coded
 
 def examinar_alumnos(l_alumnos: list) -> bool:
     for alumno in l_alumnos:
