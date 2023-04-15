@@ -32,7 +32,52 @@ como se instala un packages -> pip install gcp
 instala la libreria en tu entorno
 
 pypi.org -> librerias y packaged
+codigo reutilizable.
+github con codigo + pagina principal.
 
 Web con un tutorial de python
 https://www.w3schools.com/python/default.asp
+
+Paradigma programacion funcional --> Map y filter
+
+https://github.com/vinta/awesome-python
+
+any , all
+
+print(all([1,1,1,1,0,1,1])  	--> False pq 0 es false
+print(all([1,1,1,1,1,1,1])	--> True pq todos son 1
+
+
+comprobaciones defensivas -> 
+
+expresion regulares
+import re
+
+expresion regular apache log
+https://www.regextester.com/95830
+
+https://pypi.org/project/dill/ -> temas de seguridad.
+
+
+tupla = (1, 2, 3)
+
+
+metodo patron factoria --> @classmethod
+no instanciar mediante un constructor sino emplear un metodo de clase.
+Accedera los atributos de clase y modificarlos.
+
+metodo estático -> @staticmethod
+no tiene que ver con los atributos de la clase pero deberia afectar a todas las instancias.
+metodos estaticos
+No estan instanciado.
+
+Para generar documentacion
+python -m pydoc doctest1.py
+
+ python -m pydoc doctest1.py -w enumerados.py
+ 
+
+
+
+
 

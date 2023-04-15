@@ -41,8 +41,6 @@ def listar_alumnos(l_alumnos: list) -> list:
     else:
         return info_requerida
 
-
-
 def __examinar_alumno_con_calificacion(s_asig: set) -> float:
     import random as R
     asignatura = R.choice(list(s_asig))
